@@ -1,4 +1,4 @@
-Hi, I’m Ahmed Salem you can call me (the coder).
+Hi, I’m Ahmed Salem or (theCoder).
 ---
 
 👀 I’m interested in Flutter now a days.
@@ -18,8 +18,9 @@ initiated by HH "Mohammed Ben Rashid Al Maktoum".**
 it was the real start to the world of professional programming.and may be this is why I chose "THE CODER" to by my nickname. then I build a few apps . then started to answer a lot of queries in the field of programming. from this point a lot of friends asked me to create a youtube channel, so I started to record a few videos and publish it in my new youtube channel. and still going forward to be more professional.
 
 ---
+<!--
 here you will find latest videos in YouTube channel
-
+-->
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
